@@ -47,7 +47,7 @@ export const testimonials = [
     quote:
       "Henok is a talented and experienced .NET developer who helped us create a custom web application for our business. The project involved integrating various third-party services, such as payment gateways, email marketing, and analytics. Henok demonstrated a high level of proficiency in .NET technologies, such as C#, ASP.NET Core, Blazor, and SignalR. The web application was delivered on time, on budget, and with excellent quality. Henok was also very responsive, collaborative, and proactive throughout the project. He regularly updated us on the progress, asked for feedback, and suggested improvements. We are very happy with the results and would definitely hire Henok again for any .NET development needs.",
     image: "./bisrat.jpg",
-    name: "Bisrat Aemero",
+    name: "Bisrat Aimero",
     company: "INSA",
   },
 ];
