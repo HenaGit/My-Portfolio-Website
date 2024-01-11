@@ -1,5 +1,5 @@
-import { FaUniversity,FaMicrosoft} from "react-icons/fa";
-import { FaLaptopCode} from "react-icons/fa";
+import { FaUniversity, FaMicrosoft } from "react-icons/fa";
+import { FaLaptopCode } from "react-icons/fa";
 export const projects = [
   {
     title: "Entity Framework",
@@ -48,7 +48,7 @@ export const testimonials = [
       "Henok is a talented and experienced .NET developer who helped us create a custom web application for our business. The project involved integrating various third-party services, such as payment gateways, email marketing, and analytics. Henok demonstrated a high level of proficiency in .NET technologies, such as C#, ASP.NET Core, Blazor, and SignalR. The web application was delivered on time, on budget, and with excellent quality. Henok was also very responsive, collaborative, and proactive throughout the project. He regularly updated us on the progress, asked for feedback, and suggested improvements. We are very happy with the results and would definitely hire Henok again for any .NET development needs.",
     image: "./bisrat.jpg",
     name: "Bisrat Aemero",
-    company: "NISS",
+    company: "INSA",
   },
 ];
 
@@ -104,7 +104,8 @@ export const experience = [
     icon: FaLaptopCode,
     date: "Jan 2021 - Present",
     title: "Senior System Designer at INSA.",
-    description: "Developed a website that allows users to browse and purchase products online with a shopping cart, payment gateway integration, a search functionality, and 7+ other features with React and .Net Web API.",
+    description:
+      "Developed a website that allows users to browse and purchase products online with a shopping cart, payment gateway integration, a search functionality, and 7+ other features with React and .Net Web API.",
     link: "https://www.insa.gov.et/",
   },
   {
@@ -112,7 +113,8 @@ export const experience = [
     icon: FaLaptopCode,
     date: "Jan 2019 - Jan 2020",
     title: "System Designer at INSA.",
-    description: "Completed requirement gathering, planning, designing, and user acceptance testing for 10+ government security institutions.",
+    description:
+      "Completed requirement gathering, planning, designing, and user acceptance testing for 10+ government security institutions.",
     link: "https://www.insa.gov.et/",
   },
   {
@@ -120,7 +122,8 @@ export const experience = [
     icon: FaLaptopCode,
     date: "Jan 2015 - Jan 2019",
     title: "Senior Application Programmer at INSA.",
-    description: "Participated in code reviews of 20 developers’ ensuring that all code compiled 100% with coding standards and best practices.",
+    description:
+      "Participated in code reviews of 20 developers’ ensuring that all code compiled 100% with coding standards and best practices.",
     link: "https://www.insa.gov.et/",
   },
   {
@@ -128,7 +131,8 @@ export const experience = [
     icon: FaLaptopCode,
     date: "Oct 2011 - Jan 2015",
     title: "Geospatial System Engineer at INSA.",
-    description: "Developed front-end code using HTML, CSS, JavaScript, jQuery to create a responsive web application that works across different devices, including desktops and tablets.",
+    description:
+      "Developed front-end code using HTML, CSS, JavaScript, jQuery to create a responsive web application that works across different devices, including desktops and tablets.",
     link: "https://www.insa.gov.et/",
   },
 ];
